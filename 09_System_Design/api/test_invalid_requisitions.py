@@ -4,6 +4,8 @@ import sqlite3
 from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
+from datetime import date, timedelta
+
 
 DATABASE = Path(__file__).resolve().parent / "meridian_api.db"
 API_URL = "http://127.0.0.1:8000/api/requisitions"
@@ -23,7 +25,8 @@ def test_invalid_request(field, invalid_id, expected_error):
         "quantity": 2,
         "unit_price_inr": 15000,
         "priority": "Normal",
-        "needed_by": "2026-12-20"
+        "needed_by": (date.today() + timedelta(days=30)).isoformat()
+
     }
 
     payload[field] = invalid_id

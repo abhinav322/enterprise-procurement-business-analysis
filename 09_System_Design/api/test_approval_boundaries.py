@@ -1,6 +1,8 @@
 
 import json
 from urllib.request import Request, urlopen
+from datetime import date, timedelta
+
 
 API_URL = "http://127.0.0.1:8000/api/requisitions"
 
@@ -20,7 +22,8 @@ for amount, expected_stages in test_cases:
         "quantity": 1,
         "unit_price_inr": amount,
         "priority": "Normal",
-        "needed_by": "2026-12-20"
+        "needed_by": (date.today() + timedelta(days=30)).isoformat()
+
     }
 
     request = Request(
