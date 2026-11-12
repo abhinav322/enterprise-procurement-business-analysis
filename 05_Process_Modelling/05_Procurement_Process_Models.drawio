@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net" modified="2026-11-09T00:00:00.000Z" agent="Meridian BA guided build" version="24.7.17" type="device">
+  <diagram id="as_is" name="AS-IS — Current Process">
+    <mxGraphModel dx="1600" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1690" pageHeight="2010" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="as_is_head" value="AS-IS — Current Process&lt;br&gt;Current workflow (assumed from project brief)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#132E48;strokeColor=none;fontColor=#FFFFFF;fontSize=29;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=70;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="1690" height="165" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_lane_0" value="" style="rounded=1;arcSize=5;fillColor=#EFF6FF;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="160" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_label_0" value="Requester" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#2761A2;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_lane_1" value="" style="rounded=1;arcSize=5;fillColor=#F6F8FB;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="443" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_label_1" value="Department Manager" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#46546D;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_lane_2" value="" style="rounded=1;arcSize=5;fillColor=#F4F0FF;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="726" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_label_2" value="Procurement" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#6A43B7;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="736" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_lane_3" value="" style="rounded=1;arcSize=5;fillColor=#F0FAF6;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="1009" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_label_3" value="Vendor / Receiving" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#137C63;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_lane_4" value="" style="rounded=1;arcSize=5;fillColor=#FFF7EC;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="1292" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_label_4" value="Finance" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#946320;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1302" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_note0" value="CASE-STUDY ASSUMPTION  •  Current-state process has not been observed or validated." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#BE5D2C;fontSize=15;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="168" width="1560" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_note1" value="Key weaknesses to investigate: unclear ownership  •  duplicate entry  •  limited status visibility  •  manual invoice follow-up" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#597085;fontSize=15;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1926" width="1560" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="a0" value="Start" style="ellipse;rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#DBEFE7;strokeColor=#16846D;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="258" y="340" width="88" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="a1" value="Write request and send&lt;br&gt;email / attachment" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="194" y="445" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="a2" value="Review email and&lt;br&gt;request details" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="477" y="565" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="a3" value="Complete and&lt;br&gt;approved?" style="rhombus;rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF1D8;strokeColor=#C58C33;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="500" y="720" width="170" height="118" as="geometry"/>
+        </mxCell>
+        <mxCell id="a4" value="Clarification or&lt;br&gt;rejection by email" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF0EC;strokeColor=#C65B4D;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="194" y="920" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="a5" value="Approval sent via&lt;br&gt;email; manually tracked" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="477" y="920" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="a6" value="Re-enter data in&lt;br&gt;procurement spreadsheet" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1080" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="a7" value="Create and email&lt;br&gt;purchase order (PO)" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1240" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="a8" value="Supplier delivers;&lt;br&gt;receipt confirmation" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="1395" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="a9" value="Compare PO, goods receipt&lt;br&gt;and invoice manually" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1326" y="1550" width="215" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="a10" value="Close / follow up&lt;br&gt;by email" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1326" y="1713" width="215" height="76" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a0" target="a1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a1" target="a2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a2" target="a3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e3" value="No / missing info" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#B64C51;fontSize=15;fontStyle=1;fontColor=#B64C51;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a3" target="a4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e4" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#16846D;fontSize=15;fontStyle=1;fontColor=#16846D;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a3" target="a5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a5" target="a6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a6" target="a7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a7" target="a8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a8" target="a9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="as_is_e9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="a9" target="a10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="to_be" name="TO-BE — Proposed Process">
+    <mxGraphModel dx="1600" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1690" pageHeight="2010" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="to_be_head" value="TO-BE — Proposed Process&lt;br&gt;Proposed workflow (draft requirements)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#132E48;strokeColor=none;fontColor=#FFFFFF;fontSize=29;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=70;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="1690" height="165" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_lane_0" value="" style="rounded=1;arcSize=5;fillColor=#EFF6FF;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="160" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_label_0" value="Requester" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#2761A2;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_lane_1" value="" style="rounded=1;arcSize=5;fillColor=#F6F8FB;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="443" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_label_1" value="Workflow System" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#46546D;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_lane_2" value="" style="rounded=1;arcSize=5;fillColor=#F4F0FF;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="726" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_label_2" value="Approvers" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#6A43B7;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="736" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_lane_3" value="" style="rounded=1;arcSize=5;fillColor=#F0FAF6;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="1009" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_label_3" value="Procurement / Receiving" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#137C63;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_lane_4" value="" style="rounded=1;arcSize=5;fillColor=#FFF7EC;strokeColor=#DFE7EF;opacity=90;" vertex="1" parent="1">
+          <mxGeometry x="1292" y="255" width="279" height="1665" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_label_4" value="Finance" style="rounded=1;arcSize=11;whiteSpace=wrap;html=1;fillColor=#946320;strokeColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1302" y="268" width="259" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_note0" value="PROPOSED DESIGN  •  Workflow stages and business rules are draft requirements, not live deployment." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#BE5D2C;fontSize=15;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="168" width="1560" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_note1" value="Controls: Dept Manager (all)  →  Finance (&gt;₹50k)  →  Head of Procurement (&gt;₹250k)  •  48h overdue flag  •  audit and exceptions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#597085;fontSize=15;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1926" width="1560" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="b0" value="Start" style="ellipse;rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#DBEFE7;strokeColor=#16846D;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="258" y="340" width="88" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="b1" value="Submit digital&lt;br&gt;purchase requisition" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="194" y="445" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="b2" value="Validate fields and&lt;br&gt;calculate amount" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#E7F3FF;strokeColor=#2E77C6;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="477" y="555" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="b3" value="Build sequential&lt;br&gt;approval chain by value" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#E7F3FF;strokeColor=#2E77C6;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="477" y="700" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="b4" value="Review required stages&lt;br&gt;sequentially; decide" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="760" y="860" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="b5" value="All required stages&lt;br&gt;approved?" style="rhombus;rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF1D8;strokeColor=#C58C33;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1010" width="175" height="122" as="geometry"/>
+        </mxCell>
+        <mxCell id="b6" value="Set Rejected status&lt;br&gt;and retain audit trail" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF0EC;strokeColor=#C65B4D;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="477" y="1180" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="b7" value="Process approved&lt;br&gt;request; issue PO" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="1180" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="b8" value="Record delivery and&lt;br&gt;goods received" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="1335" width="215" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="b9" value="Perform PO / receipt /&lt;br&gt;invoice exception check" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9BB5C9;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1326" y="1485" width="215" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="b10" value="Matched?" style="rhombus;rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF1D8;strokeColor=#C58C33;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1358" y="1635" width="150" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="b11" value="Exception for finance&lt;br&gt;review / resolution" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#FFF0EC;strokeColor=#C65B4D;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="1780" width="215" height="76" as="geometry"/>
+        </mxCell>
+        <mxCell id="b12" value="Matched record for&lt;br&gt;reporting / closure" style="rounded=1;arcSize=15;whiteSpace=wrap;html=1;fillColor=#DFF5E9;strokeColor=#16846D;strokeWidth=2;fontColor=#142D45;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1326" y="1780" width="215" height="76" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b0" target="b1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b1" target="b2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b2" target="b3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b3" target="b4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b4" target="b5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e5" value="Rejected" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#B64C51;fontSize=15;fontStyle=1;fontColor=#B64C51;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b5" target="b6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e6" value="All approved" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#16846D;fontSize=15;fontStyle=1;fontColor=#16846D;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b5" target="b7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b7" target="b8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b8" target="b9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#267DDA;fontSize=15;fontStyle=1;fontColor=#267DDA;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b9" target="b10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e10" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#B64C51;fontSize=15;fontStyle=1;fontColor=#B64C51;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b10" target="b11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="to_be_e11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.5;strokeColor=#16846D;fontSize=15;fontStyle=1;fontColor=#16846D;labelBackgroundColor=#FFFFFF;" edge="1" parent="1" source="b10" target="b12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

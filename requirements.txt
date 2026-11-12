@@ -1,0 +1,4 @@
+# Dependencies for the Meridian procurement FastAPI prototype
+# Database generation and SQL analysis use the Python standard library.
+fastapi>=0.115,<1.0
+uvicorn>=0.30,<1.0

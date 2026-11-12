@@ -1,0 +1,10 @@
+{
+  "requester_id": 1,
+  "vendor_id": 1,
+  "category": "Hardware",
+  "item_description": "Replacement laptops for IT team",
+  "quantity": 5,
+  "unit_price_inr": 40000,
+  "priority": "Normal",
+  "needed_by": "2026-12-15"
+}

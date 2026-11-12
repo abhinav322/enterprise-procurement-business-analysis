@@ -1,0 +1,410 @@
+﻿req_id,requester_id,vendor_id,department,category,item_description,quantity,unit_price_inr,amount_inr,priority,needed_by,created_at,status
+1001,1,1,IT,Hardware,Laptop accessories,2,20000,40000,Normal,2026-11-16,2026-10-29T09:00:00Z,Approved
+1002,2,2,Operations,Software,Software licences,2,60000,120000,Urgent,2026-11-18,2026-11-05T09:00:00Z,Pending
+1003,3,5,Marketing,Marketing,Campaign production,3,100000,300000,Normal,2026-11-08,2026-10-24T09:00:00Z,Approved
+1004,4,3,Finance,Professional Services,Compliance review,1,50000,50000,Normal,2026-11-23,2026-11-06T09:00:00Z,Approved
+1005,7,1,IT,Hardware,Workstations,5,50000,250000,Normal,2026-11-15,2026-10-28T09:00:00Z,Approved
+1006,6,3,Human Resources,Professional Services,Training programme,1,250001,250001,Normal,2026-11-28,2026-11-02T09:00:00Z,Pending
+1007,5,4,Facilities,Facilities,Office supplies,4,6000,24000,Normal,2026-11-21,2026-11-04T09:00:00Z,Pending
+1008,3,5,Marketing,Marketing,Event banners,2,30000,60000,Normal,2026-11-19,2026-10-31T09:00:00Z,Rejected
+1009,1,1,IT,Hardware,IT peripherals,2,42500,85000,Normal,2026-11-20,2026-10-30T09:00:00Z,Approved
+1010,2,7,Operations,Software,Software subscription and licences,5,4500,22500,Normal,2026-09-08,2026-08-29T05:04:00Z,Approved
+1011,7,2,IT,Software,Software subscription and licences,6,32000,192000,Normal,2026-08-20,2026-08-11T03:12:42Z,Approved
+1012,4,7,Finance,Software,Software subscription and licences,3,75000,225000,Normal,2026-04-09,2026-04-01T08:34:33Z,Approved
+1013,5,9,Facilities,Facilities,Office maintenance supplies,12,32000,384000,Normal,2026-04-01,2026-03-11T10:45:52Z,Approved
+1014,4,2,Finance,Software,Software subscription and licences,1,12000,12000,Normal,2026-08-27,2026-08-09T11:41:06Z,Approved
+1015,2,8,Operations,Professional Services,External consulting engagement,8,4500,36000,Normal,2026-11-25,2026-11-01T17:51:27Z,Pending
+1016,6,7,Human Resources,Software,Software subscription and licences,5,20000,100000,Normal,2026-09-14,2026-08-25T22:55:22Z,Rejected
+1017,3,7,Marketing,Software,Software subscription and licences,4,50000,200000,Urgent,2026-06-03,2026-05-27T10:56:34Z,Approved
+1018,5,9,Facilities,Facilities,Office maintenance supplies,7,75000,525000,Normal,2026-09-24,2026-09-10T23:49:48Z,Approved
+1019,5,6,Facilities,Hardware,IT hardware and peripherals,1,20000,20000,Normal,2026-10-06,2026-09-09T19:45:23Z,Approved
+1020,2,2,Operations,Software,Software subscription and licences,4,75000,300000,Normal,2026-08-28,2026-08-02T04:35:22Z,Approved
+1021,7,6,IT,Hardware,IT hardware and peripherals,12,50000,600000,Urgent,2026-07-09,2026-06-21T02:30:30Z,Approved
+1022,2,2,Operations,Software,Software subscription and licences,7,7500,52500,Urgent,2026-05-25,2026-05-14T04:26:29Z,Approved
+1023,4,8,Finance,Professional Services,External consulting engagement,4,1800,7200,Normal,2026-05-25,2026-05-10T02:10:07Z,Approved
+1024,7,1,IT,Hardware,IT hardware and peripherals,10,32000,320000,Normal,2026-08-21,2026-07-27T15:36:25Z,Approved
+1025,2,3,Operations,Professional Services,External consulting engagement,8,50000,400000,Normal,2026-08-30,2026-08-05T00:54:30Z,Approved
+1026,2,2,Operations,Software,Software subscription and licences,2,7500,15000,Normal,2026-11-26,2026-11-01T19:31:49Z,Pending
+1027,6,8,Human Resources,Professional Services,External consulting engagement,1,4500,4500,Normal,2026-03-29,2026-03-09T15:21:22Z,Approved
+1028,2,7,Operations,Software,Software subscription and licences,10,7500,75000,Normal,2026-09-28,2026-09-03T04:10:28Z,Rejected
+1029,1,1,IT,Hardware,IT hardware and peripherals,10,1800,18000,Normal,2026-05-23,2026-05-10T08:14:38Z,Approved
+1030,7,7,IT,Software,Software subscription and licences,1,4500,4500,Normal,2026-11-20,2026-11-07T16:46:25Z,Pending
+1031,5,6,Facilities,Hardware,IT hardware and peripherals,7,75000,525000,Normal,2026-07-09,2026-06-26T09:15:58Z,Approved
+1032,4,3,Finance,Professional Services,External consulting engagement,4,32000,128000,Normal,2026-06-14,2026-05-17T02:35:49Z,Approved
+1033,4,3,Finance,Professional Services,External consulting engagement,3,4500,13500,Normal,2026-09-12,2026-09-03T05:11:32Z,Approved
+1034,6,7,Human Resources,Software,Software subscription and licences,8,1800,14400,Normal,2026-11-15,2026-11-04T02:55:57Z,Pending
+1035,4,7,Finance,Software,Software subscription and licences,9,50000,450000,Normal,2026-07-01,2026-06-16T05:31:35Z,Approved
+1036,1,2,IT,Software,Software subscription and licences,4,7500,30000,Normal,2026-10-23,2026-10-11T22:36:16Z,Approved
+1037,3,2,Marketing,Software,Software subscription and licences,5,20000,100000,Normal,2026-07-03,2026-06-26T11:41:12Z,Rejected
+1038,3,8,Marketing,Professional Services,External consulting engagement,9,4500,40500,Normal,2026-04-18,2026-03-25T12:58:49Z,Rejected
+1039,3,5,Marketing,Marketing,Brand and campaign services,7,7500,52500,Normal,2026-09-18,2026-08-26T11:34:23Z,Approved
+1040,6,8,Human Resources,Professional Services,External consulting engagement,5,1800,9000,Normal,2026-06-04,2026-05-19T02:57:25Z,Approved
+1041,1,7,IT,Software,Software subscription and licences,2,50000,100000,Normal,2026-03-13,2026-03-03T10:27:24Z,Approved
+1042,4,8,Finance,Professional Services,External consulting engagement,11,3000,33000,Normal,2026-08-27,2026-08-20T12:06:08Z,Approved
+1043,5,1,Facilities,Hardware,IT hardware and peripherals,5,75000,375000,Normal,2026-09-04,2026-08-13T20:39:30Z,Approved
+1044,3,10,Marketing,Marketing,Brand and campaign services,10,7500,75000,Normal,2026-08-29,2026-08-14T12:11:19Z,Approved
+1045,7,1,IT,Hardware,IT hardware and peripherals,1,1800,1800,Normal,2026-11-13,2026-11-03T00:05:10Z,Pending
+1046,4,2,Finance,Software,Software subscription and licences,4,32000,128000,Normal,2026-11-14,2026-11-03T22:40:00Z,Pending
+1047,1,1,IT,Hardware,IT hardware and peripherals,2,50000,100000,Normal,2026-06-12,2026-06-05T08:22:50Z,Approved
+1048,6,8,Human Resources,Professional Services,External consulting engagement,12,1800,21600,Normal,2026-03-29,2026-03-10T07:55:57Z,Approved
+1049,3,7,Marketing,Software,Software subscription and licences,5,3000,15000,Normal,2026-09-04,2026-08-22T23:49:57Z,Approved
+1050,7,7,IT,Software,Software subscription and licences,7,32000,224000,Normal,2026-10-09,2026-09-14T03:01:23Z,Approved
+1051,7,1,IT,Hardware,IT hardware and peripherals,3,20000,60000,Normal,2026-04-18,2026-03-24T05:29:07Z,Approved
+1052,1,6,IT,Hardware,IT hardware and peripherals,8,32000,256000,Normal,2026-07-09,2026-06-29T03:18:11Z,Approved
+1053,3,7,Marketing,Software,Software subscription and licences,10,20000,200000,Normal,2026-11-27,2026-11-01T14:18:32Z,Pending
+1054,7,1,IT,Hardware,IT hardware and peripherals,2,50000,100000,Normal,2026-04-20,2026-04-07T01:13:01Z,Approved
+1055,6,3,Human Resources,Professional Services,External consulting engagement,9,3000,27000,Normal,2026-08-26,2026-08-02T11:43:07Z,Rejected
+1056,1,6,IT,Hardware,IT hardware and peripherals,7,4500,31500,Normal,2026-08-22,2026-08-02T22:19:59Z,Approved
+1057,4,2,Finance,Software,Software subscription and licences,7,20000,140000,Urgent,2026-06-05,2026-05-28T02:07:51Z,Rejected
+1058,6,3,Human Resources,Professional Services,External consulting engagement,12,50000,600000,Normal,2026-06-05,2026-05-08T01:08:40Z,Approved
+1059,3,8,Marketing,Professional Services,External consulting engagement,2,20000,40000,Normal,2026-04-23,2026-04-12T23:07:18Z,Rejected
+1060,3,10,Marketing,Marketing,Brand and campaign services,3,12000,36000,Normal,2026-03-14,2026-03-07T19:56:20Z,Approved
+1061,4,7,Finance,Software,Software subscription and licences,6,1800,10800,Urgent,2026-05-06,2026-04-29T23:35:09Z,Approved
+1062,1,1,IT,Hardware,IT hardware and peripherals,6,3000,18000,Urgent,2026-07-29,2026-07-18T12:25:41Z,Approved
+1063,2,9,Operations,Facilities,Office maintenance supplies,10,32000,320000,Normal,2026-04-13,2026-03-21T09:22:34Z,Approved
+1064,4,2,Finance,Software,Software subscription and licences,12,75000,900000,Normal,2026-06-20,2026-06-02T02:01:02Z,Approved
+1065,4,7,Finance,Software,Software subscription and licences,12,20000,240000,Normal,2026-10-25,2026-10-16T23:43:55Z,Approved
+1066,6,3,Human Resources,Professional Services,External consulting engagement,9,1800,16200,Normal,2026-11-23,2026-11-04T11:41:04Z,Pending
+1067,7,2,IT,Software,Software subscription and licences,11,3000,33000,Normal,2026-03-31,2026-03-08T19:43:10Z,Approved
+1068,4,3,Finance,Professional Services,External consulting engagement,11,3000,33000,Urgent,2026-11-16,2026-11-02T06:56:51Z,Pending
+1069,5,6,Facilities,Hardware,IT hardware and peripherals,7,3000,21000,Normal,2026-05-16,2026-05-08T02:52:08Z,Rejected
+1070,2,7,Operations,Software,Software subscription and licences,10,12000,120000,Normal,2026-05-27,2026-05-14T09:18:23Z,Approved
+1071,4,2,Finance,Software,Software subscription and licences,8,50000,400000,Normal,2026-11-17,2026-11-05T21:42:49Z,Pending
+1072,6,2,Human Resources,Software,Software subscription and licences,8,75000,600000,Normal,2026-04-10,2026-04-03T10:01:38Z,Approved
+1073,5,4,Facilities,Facilities,Office maintenance supplies,8,12000,96000,Normal,2026-06-07,2026-05-29T20:47:07Z,Rejected
+1074,2,3,Operations,Professional Services,External consulting engagement,6,4500,27000,Urgent,2026-07-10,2026-06-20T13:43:27Z,Approved
+1075,6,3,Human Resources,Professional Services,External consulting engagement,8,32000,256000,Normal,2026-08-26,2026-08-15T06:38:20Z,Approved
+1076,3,10,Marketing,Marketing,Brand and campaign services,7,4500,31500,Normal,2026-08-15,2026-08-06T23:31:28Z,Approved
+1077,3,5,Marketing,Marketing,Brand and campaign services,12,7500,90000,Normal,2026-11-19,2026-11-02T01:19:28Z,Pending
+1078,5,6,Facilities,Hardware,IT hardware and peripherals,10,12000,120000,Urgent,2026-11-07,2026-10-13T16:06:15Z,Approved
+1079,4,8,Finance,Professional Services,External consulting engagement,7,1800,12600,Normal,2026-10-25,2026-10-11T22:47:32Z,Approved
+1080,2,4,Operations,Facilities,Office maintenance supplies,12,12000,144000,Normal,2026-12-03,2026-11-05T20:41:40Z,Pending
+1081,4,7,Finance,Software,Software subscription and licences,3,20000,60000,Urgent,2026-10-24,2026-09-29T05:05:20Z,Approved
+1082,5,6,Facilities,Hardware,IT hardware and peripherals,10,75000,750000,Normal,2026-07-13,2026-06-18T12:32:48Z,Approved
+1083,4,8,Finance,Professional Services,External consulting engagement,3,12000,36000,Normal,2026-05-19,2026-05-07T08:37:25Z,Approved
+1084,6,2,Human Resources,Software,Software subscription and licences,7,20000,140000,Urgent,2026-10-02,2026-09-25T03:07:55Z,Approved
+1085,5,9,Facilities,Facilities,Office maintenance supplies,2,32000,64000,Normal,2026-10-17,2026-09-20T14:50:52Z,Rejected
+1086,7,6,IT,Hardware,IT hardware and peripherals,1,20000,20000,Normal,2026-04-19,2026-03-31T07:34:25Z,Approved
+1087,7,6,IT,Hardware,IT hardware and peripherals,11,7500,82500,Urgent,2026-08-23,2026-08-14T22:29:54Z,Approved
+1088,7,6,IT,Hardware,IT hardware and peripherals,9,3000,27000,Normal,2026-11-18,2026-11-06T21:37:33Z,Pending
+1089,4,7,Finance,Software,Software subscription and licences,10,32000,320000,Normal,2026-08-31,2026-08-07T18:43:50Z,Approved
+1090,7,7,IT,Software,Software subscription and licences,11,50000,550000,Normal,2026-06-08,2026-05-20T23:06:27Z,Approved
+1091,7,2,IT,Software,Software subscription and licences,4,20000,80000,Normal,2026-08-05,2026-07-19T16:18:29Z,Approved
+1092,5,4,Facilities,Facilities,Office maintenance supplies,11,4500,49500,Normal,2026-08-11,2026-07-24T15:00:10Z,Approved
+1093,4,8,Finance,Professional Services,External consulting engagement,10,1800,18000,Normal,2026-04-07,2026-03-13T18:33:07Z,Approved
+1094,6,3,Human Resources,Professional Services,External consulting engagement,4,32000,128000,Normal,2026-08-25,2026-08-16T02:29:48Z,Approved
+1095,3,7,Marketing,Software,Software subscription and licences,3,50000,150000,Normal,2026-06-03,2026-05-23T22:04:11Z,Rejected
+1096,6,8,Human Resources,Professional Services,External consulting engagement,11,50000,550000,Normal,2026-05-28,2026-05-21T04:25:00Z,Approved
+1097,7,7,IT,Software,Software subscription and licences,10,20000,200000,Urgent,2026-06-22,2026-06-03T18:04:02Z,Rejected
+1098,4,8,Finance,Professional Services,External consulting engagement,12,7500,90000,Normal,2026-03-25,2026-03-16T12:58:27Z,Approved
+1099,2,2,Operations,Software,Software subscription and licences,9,12000,108000,Normal,2026-07-11,2026-06-13T20:12:34Z,Approved
+1100,6,8,Human Resources,Professional Services,External consulting engagement,5,75000,375000,Normal,2026-04-03,2026-03-22T02:11:13Z,Approved
+1101,7,7,IT,Software,Software subscription and licences,10,3000,30000,Normal,2026-10-27,2026-10-12T15:07:13Z,Rejected
+1102,5,6,Facilities,Hardware,IT hardware and peripherals,11,12000,132000,Urgent,2026-04-08,2026-03-26T05:55:28Z,Approved
+1103,4,8,Finance,Professional Services,External consulting engagement,7,4500,31500,Normal,2026-03-29,2026-03-04T16:59:31Z,Approved
+1104,7,6,IT,Hardware,IT hardware and peripherals,10,7500,75000,Normal,2026-08-24,2026-08-04T20:40:10Z,Approved
+1105,3,5,Marketing,Marketing,Brand and campaign services,10,7500,75000,Normal,2026-06-09,2026-05-13T06:00:29Z,Approved
+1106,7,7,IT,Software,Software subscription and licences,4,50000,200000,Normal,2026-08-15,2026-08-08T06:38:34Z,Approved
+1107,7,1,IT,Hardware,IT hardware and peripherals,6,4500,27000,Normal,2026-08-22,2026-07-28T09:23:29Z,Approved
+1108,4,2,Finance,Software,Software subscription and licences,6,20000,120000,Urgent,2026-04-18,2026-03-30T07:10:49Z,Approved
+1109,6,7,Human Resources,Software,Software subscription and licences,2,20000,40000,Urgent,2026-09-12,2026-08-23T11:16:24Z,Approved
+1110,1,6,IT,Hardware,IT hardware and peripherals,12,1800,21600,Normal,2026-05-31,2026-05-05T08:07:20Z,Approved
+1111,1,1,IT,Hardware,IT hardware and peripherals,4,12000,48000,Normal,2026-09-04,2026-08-08T15:59:40Z,Approved
+1112,7,1,IT,Hardware,IT hardware and peripherals,9,7500,67500,Normal,2026-12-03,2026-11-06T17:07:56Z,Pending
+1113,4,8,Finance,Professional Services,External consulting engagement,4,3000,12000,Normal,2026-07-15,2026-06-23T05:02:31Z,Approved
+1114,5,4,Facilities,Facilities,Office maintenance supplies,5,20000,100000,Normal,2026-05-12,2026-04-23T12:47:58Z,Approved
+1115,2,7,Operations,Software,Software subscription and licences,6,75000,450000,Urgent,2026-11-25,2026-11-04T05:09:34Z,Pending
+1116,5,1,Facilities,Hardware,IT hardware and peripherals,6,50000,300000,Normal,2026-05-19,2026-04-28T15:31:52Z,Approved
+1117,2,3,Operations,Professional Services,External consulting engagement,8,50000,400000,Normal,2026-04-21,2026-03-25T00:50:51Z,Approved
+1118,7,7,IT,Software,Software subscription and licences,11,3000,33000,Normal,2026-11-16,2026-11-07T14:25:29Z,Pending
+1119,5,4,Facilities,Facilities,Office maintenance supplies,4,12000,48000,Normal,2026-03-22,2026-03-11T16:40:28Z,Rejected
+1120,1,7,IT,Software,Software subscription and licences,8,50000,400000,Normal,2026-07-06,2026-06-19T07:52:56Z,Approved
+1121,7,2,IT,Software,Software subscription and licences,12,3000,36000,Urgent,2026-05-26,2026-05-02T13:43:40Z,Approved
+1122,1,7,IT,Software,Software subscription and licences,1,1800,1800,Normal,2026-04-28,2026-03-31T08:33:13Z,Rejected
+1123,6,8,Human Resources,Professional Services,External consulting engagement,11,12000,132000,Normal,2026-11-20,2026-11-05T06:26:30Z,Pending
+1124,3,7,Marketing,Software,Software subscription and licences,8,50000,400000,Normal,2026-11-19,2026-11-03T12:36:28Z,Pending
+1125,4,7,Finance,Software,Software subscription and licences,11,3000,33000,Normal,2026-10-21,2026-09-25T23:53:04Z,Approved
+1126,6,2,Human Resources,Software,Software subscription and licences,8,3000,24000,Normal,2026-07-27,2026-07-06T09:17:48Z,Approved
+1127,3,10,Marketing,Marketing,Brand and campaign services,4,75000,300000,Normal,2026-08-12,2026-07-31T06:39:29Z,Approved
+1128,2,8,Operations,Professional Services,External consulting engagement,5,4500,22500,Normal,2026-04-09,2026-03-29T08:23:26Z,Approved
+1129,7,6,IT,Hardware,IT hardware and peripherals,1,1800,1800,Normal,2026-05-24,2026-05-08T23:01:44Z,Approved
+1130,4,3,Finance,Professional Services,External consulting engagement,3,3000,9000,Normal,2026-10-16,2026-10-08T10:49:43Z,Approved
+1131,4,2,Finance,Software,Software subscription and licences,11,32000,352000,Normal,2026-03-29,2026-03-03T01:00:57Z,Approved
+1132,6,3,Human Resources,Professional Services,External consulting engagement,11,4500,49500,Normal,2026-08-27,2026-08-01T09:32:13Z,Approved
+1133,5,4,Facilities,Facilities,Office maintenance supplies,8,4500,36000,Normal,2026-12-04,2026-11-06T19:55:45Z,Pending
+1134,1,1,IT,Hardware,IT hardware and peripherals,12,7500,90000,Normal,2026-03-24,2026-03-14T16:25:18Z,Approved
+1135,1,6,IT,Hardware,IT hardware and peripherals,5,50000,250000,Urgent,2026-04-15,2026-04-05T11:20:36Z,Approved
+1136,5,1,Facilities,Hardware,IT hardware and peripherals,2,7500,15000,Normal,2026-07-11,2026-06-15T02:03:44Z,Approved
+1137,7,2,IT,Software,Software subscription and licences,8,3000,24000,Normal,2026-11-23,2026-11-07T18:35:41Z,Pending
+1138,6,7,Human Resources,Software,Software subscription and licences,8,50000,400000,Normal,2026-10-18,2026-09-23T06:50:44Z,Approved
+1139,7,7,IT,Software,Software subscription and licences,11,20000,220000,Normal,2026-09-24,2026-09-05T12:06:10Z,Approved
+1140,3,2,Marketing,Software,Software subscription and licences,4,75000,300000,Normal,2026-05-26,2026-04-29T15:58:58Z,Approved
+1141,1,7,IT,Software,Software subscription and licences,11,4500,49500,Urgent,2026-08-26,2026-08-05T10:34:13Z,Approved
+1142,1,7,IT,Software,Software subscription and licences,2,50000,100000,Normal,2026-03-29,2026-03-18T16:25:14Z,Approved
+1143,5,6,Facilities,Hardware,IT hardware and peripherals,4,75000,300000,Urgent,2026-09-19,2026-09-03T11:04:32Z,Approved
+1144,5,6,Facilities,Hardware,IT hardware and peripherals,4,12000,48000,Urgent,2026-10-01,2026-09-14T09:14:28Z,Approved
+1145,4,2,Finance,Software,Software subscription and licences,10,1800,18000,Urgent,2026-06-21,2026-06-11T00:32:53Z,Approved
+1146,4,7,Finance,Software,Software subscription and licences,12,7500,90000,Normal,2026-07-25,2026-07-18T06:38:16Z,Approved
+1147,4,7,Finance,Software,Software subscription and licences,9,4500,40500,Normal,2026-06-15,2026-05-23T23:38:06Z,Approved
+1148,6,2,Human Resources,Software,Software subscription and licences,11,50000,550000,Urgent,2026-03-30,2026-03-15T02:38:38Z,Approved
+1149,6,7,Human Resources,Software,Software subscription and licences,2,75000,150000,Normal,2026-10-23,2026-10-05T19:12:04Z,Approved
+1150,2,9,Operations,Facilities,Office maintenance supplies,1,12000,12000,Normal,2026-09-30,2026-09-15T20:53:09Z,Approved
+1151,2,4,Operations,Facilities,Office maintenance supplies,3,12000,36000,Normal,2026-05-05,2026-04-09T13:19:34Z,Approved
+1152,1,1,IT,Hardware,IT hardware and peripherals,12,7500,90000,Normal,2026-05-13,2026-04-26T17:37:23Z,Approved
+1153,7,1,IT,Hardware,IT hardware and peripherals,12,75000,900000,Normal,2026-09-22,2026-08-28T16:52:35Z,Approved
+1154,5,6,Facilities,Hardware,IT hardware and peripherals,1,4500,4500,Normal,2026-08-28,2026-08-10T06:20:52Z,Approved
+1155,7,6,IT,Hardware,IT hardware and peripherals,6,4500,27000,Normal,2026-10-01,2026-09-16T05:12:03Z,Approved
+1156,1,7,IT,Software,Software subscription and licences,9,4500,40500,Normal,2026-04-01,2026-03-21T11:34:37Z,Approved
+1157,7,7,IT,Software,Software subscription and licences,7,75000,525000,Normal,2026-05-13,2026-04-29T00:55:23Z,Approved
+1158,7,2,IT,Software,Software subscription and licences,1,20000,20000,Normal,2026-05-22,2026-05-13T08:05:06Z,Approved
+1159,2,8,Operations,Professional Services,External consulting engagement,12,50000,600000,Normal,2026-03-19,2026-03-05T19:04:15Z,Rejected
+1160,3,5,Marketing,Marketing,Brand and campaign services,7,3000,21000,Normal,2026-11-25,2026-11-06T07:50:18Z,Pending
+1161,5,9,Facilities,Facilities,Office maintenance supplies,1,20000,20000,Normal,2026-11-22,2026-11-05T05:14:21Z,Pending
+1162,7,2,IT,Software,Software subscription and licences,10,75000,750000,Normal,2026-09-07,2026-08-28T03:24:16Z,Rejected
+1163,7,1,IT,Hardware,IT hardware and peripherals,9,4500,40500,Normal,2026-05-09,2026-04-23T19:49:08Z,Approved
+1164,4,7,Finance,Software,Software subscription and licences,8,4500,36000,Normal,2026-03-29,2026-03-10T22:32:26Z,Approved
+1165,2,7,Operations,Software,Software subscription and licences,4,1800,7200,Normal,2026-08-27,2026-07-31T21:55:38Z,Approved
+1166,7,1,IT,Hardware,IT hardware and peripherals,2,3000,6000,Normal,2026-08-20,2026-08-04T20:31:47Z,Approved
+1167,6,2,Human Resources,Software,Software subscription and licences,12,3000,36000,Normal,2026-08-09,2026-07-19T00:26:42Z,Approved
+1168,3,5,Marketing,Marketing,Brand and campaign services,9,7500,67500,Normal,2026-10-22,2026-10-15T16:01:41Z,Approved
+1169,5,4,Facilities,Facilities,Office maintenance supplies,5,12000,60000,Normal,2026-07-19,2026-06-23T23:28:42Z,Approved
+1170,7,1,IT,Hardware,IT hardware and peripherals,2,4500,9000,Normal,2026-04-24,2026-04-04T19:55:27Z,Rejected
+1171,5,6,Facilities,Hardware,IT hardware and peripherals,9,75000,675000,Urgent,2026-07-13,2026-06-27T10:29:24Z,Approved
+1172,1,6,IT,Hardware,IT hardware and peripherals,5,3000,15000,Normal,2026-07-03,2026-06-21T22:22:02Z,Approved
+1173,4,7,Finance,Software,Software subscription and licences,4,7500,30000,Normal,2026-05-30,2026-05-09T14:02:52Z,Approved
+1174,1,7,IT,Software,Software subscription and licences,1,7500,7500,Normal,2026-06-29,2026-06-07T10:15:03Z,Approved
+1175,6,7,Human Resources,Software,Software subscription and licences,12,50000,600000,Normal,2026-07-08,2026-07-01T11:34:53Z,Approved
+1176,7,1,IT,Hardware,IT hardware and peripherals,6,50000,300000,Normal,2026-09-22,2026-09-03T05:11:55Z,Approved
+1177,2,9,Operations,Facilities,Office maintenance supplies,9,12000,108000,Urgent,2026-09-16,2026-08-27T13:30:49Z,Approved
+1178,7,6,IT,Hardware,IT hardware and peripherals,11,3000,33000,Normal,2026-09-30,2026-09-09T05:50:52Z,Approved
+1179,7,6,IT,Hardware,IT hardware and peripherals,5,3000,15000,Normal,2026-10-08,2026-09-15T20:22:23Z,Approved
+1180,2,4,Operations,Facilities,Office maintenance supplies,5,1800,9000,Normal,2026-10-10,2026-09-30T19:12:47Z,Approved
+1181,5,9,Facilities,Facilities,Office maintenance supplies,11,75000,825000,Urgent,2026-09-11,2026-08-18T07:39:04Z,Approved
+1182,3,2,Marketing,Software,Software subscription and licences,5,32000,160000,Urgent,2026-05-26,2026-04-28T22:51:47Z,Approved
+1183,5,9,Facilities,Facilities,Office maintenance supplies,9,12000,108000,Normal,2026-11-26,2026-11-01T22:40:37Z,Pending
+1184,6,3,Human Resources,Professional Services,External consulting engagement,12,4500,54000,Normal,2026-11-18,2026-11-05T01:02:46Z,Pending
+1185,3,3,Marketing,Professional Services,External consulting engagement,1,12000,12000,Normal,2026-05-04,2026-04-09T03:08:39Z,Approved
+1186,1,2,IT,Software,Software subscription and licences,4,32000,128000,Normal,2026-09-29,2026-09-08T07:50:58Z,Approved
+1187,6,7,Human Resources,Software,Software subscription and licences,2,75000,150000,Urgent,2026-11-20,2026-11-02T21:43:44Z,Pending
+1188,4,3,Finance,Professional Services,External consulting engagement,4,50000,200000,Normal,2026-10-22,2026-10-12T09:58:47Z,Approved
+1189,2,7,Operations,Software,Software subscription and licences,9,12000,108000,Normal,2026-04-18,2026-04-08T02:39:29Z,Approved
+1190,1,2,IT,Software,Software subscription and licences,10,50000,500000,Normal,2026-08-18,2026-08-09T18:50:46Z,Approved
+1191,6,8,Human Resources,Professional Services,External consulting engagement,12,3000,36000,Normal,2026-07-03,2026-06-26T07:25:06Z,Approved
+1192,6,8,Human Resources,Professional Services,External consulting engagement,6,20000,120000,Normal,2026-05-26,2026-05-09T01:50:03Z,Approved
+1193,5,6,Facilities,Hardware,IT hardware and peripherals,3,12000,36000,Normal,2026-05-04,2026-04-14T10:04:39Z,Approved
+1194,5,1,Facilities,Hardware,IT hardware and peripherals,5,75000,375000,Normal,2026-10-07,2026-09-23T10:53:24Z,Approved
+1195,3,8,Marketing,Professional Services,External consulting engagement,5,7500,37500,Normal,2026-08-30,2026-08-23T06:37:08Z,Approved
+1196,7,1,IT,Hardware,IT hardware and peripherals,1,32000,32000,Normal,2026-07-09,2026-06-30T19:23:04Z,Rejected
+1197,4,7,Finance,Software,Software subscription and licences,4,50000,200000,Normal,2026-10-12,2026-10-03T22:44:43Z,Approved
+1198,4,3,Finance,Professional Services,External consulting engagement,1,75000,75000,Normal,2026-05-05,2026-04-19T02:29:08Z,Approved
+1199,1,2,IT,Software,Software subscription and licences,5,12000,60000,Normal,2026-05-08,2026-04-30T09:56:52Z,Approved
+1200,6,7,Human Resources,Software,Software subscription and licences,11,75000,825000,Normal,2026-10-12,2026-09-25T09:09:10Z,Approved
+1201,4,8,Finance,Professional Services,External consulting engagement,6,4500,27000,Normal,2026-07-05,2026-06-17T21:02:36Z,Approved
+1202,4,7,Finance,Software,Software subscription and licences,12,50000,600000,Normal,2026-11-11,2026-11-03T10:43:38Z,Pending
+1203,6,8,Human Resources,Professional Services,External consulting engagement,1,1800,1800,Normal,2026-06-16,2026-05-21T07:36:13Z,Approved
+1204,7,6,IT,Hardware,IT hardware and peripherals,3,7500,22500,Normal,2026-07-21,2026-07-12T21:01:22Z,Approved
+1205,7,2,IT,Software,Software subscription and licences,9,1800,16200,Normal,2026-11-02,2026-10-06T05:58:07Z,Approved
+1206,6,7,Human Resources,Software,Software subscription and licences,10,4500,45000,Normal,2026-09-05,2026-08-29T03:50:42Z,Approved
+1207,2,9,Operations,Facilities,Office maintenance supplies,7,4500,31500,Normal,2026-08-09,2026-07-22T22:18:48Z,Approved
+1208,3,7,Marketing,Software,Software subscription and licences,3,3000,9000,Normal,2026-09-26,2026-09-17T01:32:34Z,Approved
+1209,4,7,Finance,Software,Software subscription and licences,3,4500,13500,Normal,2026-04-07,2026-03-15T18:49:15Z,Approved
+1210,1,1,IT,Hardware,IT hardware and peripherals,12,32000,384000,Normal,2026-06-02,2026-05-19T04:39:22Z,Approved
+1211,4,2,Finance,Software,Software subscription and licences,11,3000,33000,Normal,2026-06-12,2026-05-16T04:04:34Z,Approved
+1212,3,10,Marketing,Marketing,Brand and campaign services,4,20000,80000,Normal,2026-08-10,2026-07-24T14:34:58Z,Approved
+1213,1,2,IT,Software,Software subscription and licences,3,50000,150000,Normal,2026-04-08,2026-03-16T15:24:33Z,Approved
+1214,4,3,Finance,Professional Services,External consulting engagement,12,50000,600000,Urgent,2026-11-10,2026-11-02T09:43:05Z,Pending
+1215,4,8,Finance,Professional Services,External consulting engagement,9,12000,108000,Normal,2026-11-28,2026-11-01T18:45:11Z,Pending
+1216,3,2,Marketing,Software,Software subscription and licences,12,20000,240000,Normal,2026-08-01,2026-07-08T04:30:34Z,Rejected
+1217,6,3,Human Resources,Professional Services,External consulting engagement,2,50000,100000,Urgent,2026-04-28,2026-04-05T14:37:30Z,Approved
+1218,4,3,Finance,Professional Services,External consulting engagement,2,3000,6000,Normal,2026-04-21,2026-04-07T18:40:54Z,Approved
+1219,6,8,Human Resources,Professional Services,External consulting engagement,11,75000,825000,Normal,2026-08-27,2026-08-04T02:03:36Z,Approved
+1220,7,2,IT,Software,Software subscription and licences,9,32000,288000,Normal,2026-04-27,2026-04-19T02:06:30Z,Approved
+1221,5,9,Facilities,Facilities,Office maintenance supplies,5,3000,15000,Urgent,2026-08-02,2026-07-16T15:35:23Z,Approved
+1222,2,2,Operations,Software,Software subscription and licences,8,12000,96000,Normal,2026-05-19,2026-05-01T15:42:16Z,Rejected
+1223,3,7,Marketing,Software,Software subscription and licences,1,4500,4500,Normal,2026-11-12,2026-11-01T23:26:30Z,Pending
+1224,3,8,Marketing,Professional Services,External consulting engagement,12,7500,90000,Urgent,2026-08-30,2026-08-05T11:51:51Z,Approved
+1225,1,6,IT,Hardware,IT hardware and peripherals,5,50000,250000,Normal,2026-09-03,2026-08-15T17:55:02Z,Approved
+1226,6,8,Human Resources,Professional Services,External consulting engagement,1,3000,3000,Normal,2026-09-23,2026-09-04T06:52:12Z,Approved
+1227,1,1,IT,Hardware,IT hardware and peripherals,2,4500,9000,Normal,2026-04-20,2026-04-02T20:47:34Z,Approved
+1228,6,8,Human Resources,Professional Services,External consulting engagement,8,3000,24000,Normal,2026-05-23,2026-05-15T05:38:49Z,Approved
+1229,7,2,IT,Software,Software subscription and licences,9,7500,67500,Normal,2026-11-21,2026-11-04T08:35:28Z,Pending
+1230,6,8,Human Resources,Professional Services,External consulting engagement,7,7500,52500,Urgent,2026-06-01,2026-05-10T10:24:44Z,Approved
+1231,4,7,Finance,Software,Software subscription and licences,5,1800,9000,Urgent,2026-11-07,2026-10-16T19:31:22Z,Approved
+1232,7,7,IT,Software,Software subscription and licences,9,12000,108000,Urgent,2026-05-31,2026-05-06T18:37:22Z,Approved
+1233,6,7,Human Resources,Software,Software subscription and licences,10,4500,45000,Normal,2026-06-29,2026-06-20T10:29:14Z,Approved
+1234,5,9,Facilities,Facilities,Office maintenance supplies,11,32000,352000,Normal,2026-11-10,2026-11-02T16:20:14Z,Pending
+1235,1,6,IT,Hardware,IT hardware and peripherals,9,75000,675000,Normal,2026-05-02,2026-04-17T05:16:50Z,Approved
+1236,7,2,IT,Software,Software subscription and licences,7,12000,84000,Normal,2026-11-18,2026-11-08T15:45:08Z,Pending
+1237,6,8,Human Resources,Professional Services,External consulting engagement,4,4500,18000,Normal,2026-10-22,2026-10-10T19:37:28Z,Approved
+1238,1,6,IT,Hardware,IT hardware and peripherals,8,4500,36000,Normal,2026-11-22,2026-11-02T08:44:37Z,Pending
+1239,1,6,IT,Hardware,IT hardware and peripherals,4,50000,200000,Normal,2026-10-21,2026-10-02T11:15:17Z,Rejected
+1240,3,3,Marketing,Professional Services,External consulting engagement,7,32000,224000,Normal,2026-08-24,2026-08-07T05:15:20Z,Approved
+1241,2,4,Operations,Facilities,Office maintenance supplies,8,50000,400000,Normal,2026-09-17,2026-09-08T07:15:43Z,Approved
+1242,4,2,Finance,Software,Software subscription and licences,3,20000,60000,Normal,2026-04-29,2026-04-04T22:53:03Z,Rejected
+1243,7,1,IT,Hardware,IT hardware and peripherals,6,75000,450000,Normal,2026-11-18,2026-11-06T10:19:06Z,Pending
+1244,3,8,Marketing,Professional Services,External consulting engagement,5,1800,9000,Normal,2026-10-20,2026-10-07T16:27:11Z,Rejected
+1245,2,8,Operations,Professional Services,External consulting engagement,7,4500,31500,Normal,2026-07-25,2026-06-27T20:08:11Z,Approved
+1246,1,7,IT,Software,Software subscription and licences,2,50000,100000,Normal,2026-11-30,2026-11-03T14:41:00Z,Pending
+1247,7,7,IT,Software,Software subscription and licences,11,4500,49500,Normal,2026-11-28,2026-11-08T11:15:29Z,Pending
+1248,2,4,Operations,Facilities,Office maintenance supplies,8,32000,256000,Normal,2026-08-05,2026-07-28T05:00:48Z,Approved
+1249,6,7,Human Resources,Software,Software subscription and licences,2,20000,40000,Normal,2026-07-03,2026-06-20T15:14:32Z,Approved
+1250,1,2,IT,Software,Software subscription and licences,11,20000,220000,Normal,2026-09-22,2026-09-06T09:37:05Z,Approved
+1251,7,7,IT,Software,Software subscription and licences,10,20000,200000,Normal,2026-11-29,2026-11-04T05:31:29Z,Pending
+1252,7,1,IT,Hardware,IT hardware and peripherals,4,4500,18000,Normal,2026-10-08,2026-09-20T07:40:24Z,Approved
+1253,3,3,Marketing,Professional Services,External consulting engagement,12,50000,600000,Normal,2026-11-02,2026-10-06T15:00:12Z,Approved
+1254,5,4,Facilities,Facilities,Office maintenance supplies,6,20000,120000,Normal,2026-05-05,2026-04-18T19:19:48Z,Rejected
+1255,4,2,Finance,Software,Software subscription and licences,5,4500,22500,Normal,2026-05-04,2026-04-15T02:52:20Z,Approved
+1256,7,2,IT,Software,Software subscription and licences,10,1800,18000,Normal,2026-11-27,2026-11-04T15:58:12Z,Pending
+1257,2,4,Operations,Facilities,Office maintenance supplies,4,20000,80000,Urgent,2026-07-26,2026-07-15T01:57:37Z,Approved
+1258,3,2,Marketing,Software,Software subscription and licences,2,1800,3600,Urgent,2026-10-12,2026-09-30T17:55:07Z,Approved
+1259,7,7,IT,Software,Software subscription and licences,12,75000,900000,Normal,2026-06-14,2026-05-26T19:11:22Z,Approved
+1260,1,1,IT,Hardware,IT hardware and peripherals,7,1800,12600,Normal,2026-10-07,2026-09-16T19:11:43Z,Approved
+1261,4,8,Finance,Professional Services,External consulting engagement,2,50000,100000,Normal,2026-08-02,2026-07-20T21:54:54Z,Approved
+1262,6,3,Human Resources,Professional Services,External consulting engagement,6,7500,45000,Normal,2026-05-27,2026-05-04T17:36:32Z,Approved
+1263,4,2,Finance,Software,Software subscription and licences,3,3000,9000,Normal,2026-05-15,2026-05-07T03:10:01Z,Approved
+1264,4,3,Finance,Professional Services,External consulting engagement,5,1800,9000,Normal,2026-10-14,2026-09-16T13:01:55Z,Approved
+1265,6,3,Human Resources,Professional Services,External consulting engagement,7,4500,31500,Normal,2026-11-23,2026-11-07T09:25:42Z,Pending
+1266,4,2,Finance,Software,Software subscription and licences,6,4500,27000,Normal,2026-04-08,2026-03-21T23:10:09Z,Rejected
+1267,4,3,Finance,Professional Services,External consulting engagement,7,1800,12600,Normal,2026-10-08,2026-09-13T02:47:19Z,Approved
+1268,2,4,Operations,Facilities,Office maintenance supplies,4,20000,80000,Normal,2026-08-14,2026-08-06T23:17:17Z,Approved
+1269,7,7,IT,Software,Software subscription and licences,2,3000,6000,Urgent,2026-07-26,2026-07-11T06:25:16Z,Approved
+1270,6,8,Human Resources,Professional Services,External consulting engagement,1,1800,1800,Normal,2026-05-11,2026-04-25T18:57:03Z,Approved
+1271,3,7,Marketing,Software,Software subscription and licences,5,3000,15000,Normal,2026-07-26,2026-07-05T02:08:16Z,Approved
+1272,6,3,Human Resources,Professional Services,External consulting engagement,10,1800,18000,Normal,2026-05-29,2026-05-19T04:41:52Z,Approved
+1273,5,6,Facilities,Hardware,IT hardware and peripherals,4,32000,128000,Normal,2026-09-21,2026-09-02T16:07:45Z,Approved
+1274,3,10,Marketing,Marketing,Brand and campaign services,1,50000,50000,Normal,2026-09-12,2026-09-01T12:24:05Z,Approved
+1275,6,8,Human Resources,Professional Services,External consulting engagement,9,4500,40500,Normal,2026-05-01,2026-04-23T22:20:06Z,Approved
+1276,2,3,Operations,Professional Services,External consulting engagement,5,4500,22500,Normal,2026-12-01,2026-11-06T07:43:34Z,Pending
+1277,6,8,Human Resources,Professional Services,External consulting engagement,8,4500,36000,Normal,2026-07-10,2026-06-19T08:22:00Z,Approved
+1278,6,3,Human Resources,Professional Services,External consulting engagement,12,7500,90000,Normal,2026-03-15,2026-03-02T17:21:31Z,Approved
+1279,3,2,Marketing,Software,Software subscription and licences,3,75000,225000,Normal,2026-08-18,2026-07-31T16:47:26Z,Approved
+1280,5,6,Facilities,Hardware,IT hardware and peripherals,2,50000,100000,Normal,2026-09-06,2026-08-12T00:30:01Z,Approved
+1281,1,2,IT,Software,Software subscription and licences,1,50000,50000,Normal,2026-11-24,2026-11-02T01:46:05Z,Pending
+1282,7,6,IT,Hardware,IT hardware and peripherals,3,7500,22500,Urgent,2026-09-11,2026-08-30T17:43:34Z,Approved
+1283,4,3,Finance,Professional Services,External consulting engagement,10,50000,500000,Normal,2026-08-13,2026-07-25T11:59:01Z,Approved
+1284,7,7,IT,Software,Software subscription and licences,11,7500,82500,Normal,2026-09-25,2026-09-06T23:17:18Z,Approved
+1285,3,2,Marketing,Software,Software subscription and licences,6,20000,120000,Normal,2026-11-12,2026-11-02T13:48:02Z,Pending
+1286,1,7,IT,Software,Software subscription and licences,3,3000,9000,Normal,2026-07-20,2026-07-04T18:52:39Z,Rejected
+1287,3,3,Marketing,Professional Services,External consulting engagement,10,75000,750000,Normal,2026-07-21,2026-07-01T11:17:43Z,Approved
+1288,4,3,Finance,Professional Services,External consulting engagement,8,3000,24000,Normal,2026-06-24,2026-06-10T09:30:14Z,Approved
+1289,6,8,Human Resources,Professional Services,External consulting engagement,2,7500,15000,Normal,2026-07-25,2026-07-13T23:32:31Z,Approved
+1290,4,8,Finance,Professional Services,External consulting engagement,1,20000,20000,Normal,2026-10-13,2026-09-18T16:17:25Z,Approved
+1291,3,3,Marketing,Professional Services,External consulting engagement,2,20000,40000,Normal,2026-04-18,2026-03-29T23:27:23Z,Rejected
+1292,5,4,Facilities,Facilities,Office maintenance supplies,2,12000,24000,Urgent,2026-05-23,2026-05-14T10:21:03Z,Approved
+1293,6,3,Human Resources,Professional Services,External consulting engagement,7,20000,140000,Normal,2026-06-30,2026-06-10T16:19:38Z,Approved
+1294,1,1,IT,Hardware,IT hardware and peripherals,5,50000,250000,Normal,2026-11-21,2026-11-04T11:11:57Z,Pending
+1295,3,3,Marketing,Professional Services,External consulting engagement,10,4500,45000,Normal,2026-08-04,2026-07-21T14:10:14Z,Approved
+1296,4,2,Finance,Software,Software subscription and licences,9,1800,16200,Normal,2026-07-19,2026-07-10T09:35:46Z,Approved
+1297,2,2,Operations,Software,Software subscription and licences,3,1800,5400,Normal,2026-10-20,2026-09-25T18:25:31Z,Approved
+1298,7,2,IT,Software,Software subscription and licences,8,50000,400000,Normal,2026-09-21,2026-09-05T08:35:54Z,Approved
+1299,4,3,Finance,Professional Services,External consulting engagement,6,20000,120000,Normal,2026-09-23,2026-09-04T15:28:39Z,Approved
+1300,6,7,Human Resources,Software,Software subscription and licences,11,3000,33000,Normal,2026-06-14,2026-05-23T13:04:55Z,Approved
+1301,6,2,Human Resources,Software,Software subscription and licences,11,12000,132000,Urgent,2026-11-07,2026-10-13T03:51:59Z,Approved
+1302,2,3,Operations,Professional Services,External consulting engagement,3,50000,150000,Normal,2026-08-22,2026-08-01T11:11:21Z,Approved
+1303,5,1,Facilities,Hardware,IT hardware and peripherals,12,50000,600000,Normal,2026-10-03,2026-09-16T18:01:54Z,Approved
+1304,4,8,Finance,Professional Services,External consulting engagement,5,12000,60000,Normal,2026-10-11,2026-09-28T02:02:50Z,Rejected
+1305,2,9,Operations,Facilities,Office maintenance supplies,8,3000,24000,Normal,2026-08-10,2026-07-14T21:14:31Z,Approved
+1306,6,8,Human Resources,Professional Services,External consulting engagement,11,3000,33000,Normal,2026-04-26,2026-04-03T22:43:11Z,Approved
+1307,4,7,Finance,Software,Software subscription and licences,8,3000,24000,Normal,2026-04-03,2026-03-22T18:17:50Z,Approved
+1308,6,3,Human Resources,Professional Services,External consulting engagement,12,4500,54000,Normal,2026-08-21,2026-07-31T16:31:18Z,Approved
+1309,5,6,Facilities,Hardware,IT hardware and peripherals,3,1800,5400,Urgent,2026-11-20,2026-11-02T17:04:52Z,Pending
+1310,2,4,Operations,Facilities,Office maintenance supplies,1,12000,12000,Normal,2026-04-06,2026-03-19T19:26:29Z,Approved
+1311,1,7,IT,Software,Software subscription and licences,5,1800,9000,Normal,2026-11-18,2026-11-02T07:22:33Z,Pending
+1312,5,4,Facilities,Facilities,Office maintenance supplies,2,7500,15000,Normal,2026-07-30,2026-07-05T05:31:11Z,Approved
+1313,6,8,Human Resources,Professional Services,External consulting engagement,5,12000,60000,Normal,2026-08-04,2026-07-20T09:07:04Z,Approved
+1314,7,6,IT,Hardware,IT hardware and peripherals,1,1800,1800,Urgent,2026-04-27,2026-04-20T16:14:22Z,Approved
+1315,4,8,Finance,Professional Services,External consulting engagement,10,75000,750000,Urgent,2026-06-16,2026-05-19T03:06:33Z,Approved
+1316,4,7,Finance,Software,Software subscription and licences,9,50000,450000,Normal,2026-04-14,2026-03-22T13:48:28Z,Approved
+1317,3,7,Marketing,Software,Software subscription and licences,11,1800,19800,Normal,2026-11-24,2026-11-02T06:37:45Z,Pending
+1318,7,1,IT,Hardware,IT hardware and peripherals,5,7500,37500,Normal,2026-11-19,2026-11-02T15:36:59Z,Pending
+1319,4,3,Finance,Professional Services,External consulting engagement,3,75000,225000,Normal,2026-04-29,2026-04-15T02:27:08Z,Rejected
+1320,2,8,Operations,Professional Services,External consulting engagement,11,3000,33000,Normal,2026-11-29,2026-11-07T02:32:51Z,Pending
+1321,2,7,Operations,Software,Software subscription and licences,3,3000,9000,Normal,2026-08-19,2026-08-02T14:52:41Z,Approved
+1322,7,1,IT,Hardware,IT hardware and peripherals,4,50000,200000,Normal,2026-07-31,2026-07-17T08:37:13Z,Approved
+1323,3,3,Marketing,Professional Services,External consulting engagement,9,7500,67500,Urgent,2026-06-12,2026-05-30T07:44:12Z,Approved
+1324,7,2,IT,Software,Software subscription and licences,1,20000,20000,Normal,2026-05-14,2026-04-22T11:36:30Z,Approved
+1325,7,2,IT,Software,Software subscription and licences,8,50000,400000,Normal,2026-07-20,2026-07-08T08:29:08Z,Approved
+1326,2,2,Operations,Software,Software subscription and licences,3,3000,9000,Normal,2026-11-03,2026-10-07T09:06:27Z,Approved
+1327,1,7,IT,Software,Software subscription and licences,9,12000,108000,Normal,2026-07-05,2026-06-20T01:54:34Z,Rejected
+1328,2,4,Operations,Facilities,Office maintenance supplies,1,20000,20000,Urgent,2026-10-09,2026-09-26T20:03:26Z,Approved
+1329,4,3,Finance,Professional Services,External consulting engagement,10,20000,200000,Urgent,2026-11-09,2026-11-02T10:06:21Z,Pending
+1330,6,3,Human Resources,Professional Services,External consulting engagement,11,75000,825000,Urgent,2026-08-04,2026-07-14T01:19:09Z,Approved
+1331,1,7,IT,Software,Software subscription and licences,10,1800,18000,Normal,2026-06-15,2026-05-27T02:08:32Z,Approved
+1332,7,7,IT,Software,Software subscription and licences,4,20000,80000,Urgent,2026-06-02,2026-05-21T23:58:03Z,Approved
+1333,2,4,Operations,Facilities,Office maintenance supplies,12,1800,21600,Normal,2026-04-26,2026-04-15T12:08:32Z,Approved
+1334,3,7,Marketing,Software,Software subscription and licences,1,1800,1800,Normal,2026-11-20,2026-11-01T10:24:20Z,Pending
+1335,4,3,Finance,Professional Services,External consulting engagement,12,12000,144000,Normal,2026-09-14,2026-08-19T22:09:17Z,Approved
+1336,4,2,Finance,Software,Software subscription and licences,2,7500,15000,Urgent,2026-05-22,2026-05-08T09:19:43Z,Approved
+1337,4,3,Finance,Professional Services,External consulting engagement,2,1800,3600,Normal,2026-08-11,2026-07-20T20:22:42Z,Approved
+1338,7,7,IT,Software,Software subscription and licences,3,12000,36000,Normal,2026-07-31,2026-07-22T11:41:07Z,Approved
+1339,5,4,Facilities,Facilities,Office maintenance supplies,11,12000,132000,Normal,2026-05-27,2026-05-09T08:59:56Z,Approved
+1340,7,1,IT,Hardware,IT hardware and peripherals,3,4500,13500,Normal,2026-05-08,2026-05-01T02:04:51Z,Approved
+1341,1,6,IT,Hardware,IT hardware and peripherals,4,32000,128000,Normal,2026-07-13,2026-06-22T19:42:26Z,Approved
+1342,4,2,Finance,Software,Software subscription and licences,8,3000,24000,Normal,2026-10-17,2026-09-21T20:04:15Z,Approved
+1343,6,3,Human Resources,Professional Services,External consulting engagement,6,32000,192000,Normal,2026-06-16,2026-06-09T07:33:32Z,Approved
+1344,7,2,IT,Software,Software subscription and licences,8,7500,60000,Normal,2026-11-22,2026-11-05T15:52:34Z,Pending
+1345,2,2,Operations,Software,Software subscription and licences,6,3000,18000,Normal,2026-05-19,2026-05-07T15:28:10Z,Approved
+1346,5,9,Facilities,Facilities,Office maintenance supplies,2,7500,15000,Normal,2026-05-19,2026-05-11T00:32:56Z,Approved
+1347,3,3,Marketing,Professional Services,External consulting engagement,10,75000,750000,Normal,2026-11-19,2026-11-01T09:04:24Z,Pending
+1348,7,6,IT,Hardware,IT hardware and peripherals,10,20000,200000,Normal,2026-06-01,2026-05-15T04:20:59Z,Approved
+1349,3,8,Marketing,Professional Services,External consulting engagement,1,75000,75000,Urgent,2026-06-23,2026-06-05T00:55:49Z,Approved
+1350,3,7,Marketing,Software,Software subscription and licences,10,32000,320000,Normal,2026-08-28,2026-08-02T11:07:56Z,Rejected
+1351,2,3,Operations,Professional Services,External consulting engagement,6,50000,300000,Normal,2026-09-15,2026-08-22T11:45:21Z,Approved
+1352,3,7,Marketing,Software,Software subscription and licences,11,7500,82500,Normal,2026-10-15,2026-09-21T04:28:53Z,Approved
+1353,2,7,Operations,Software,Software subscription and licences,10,32000,320000,Normal,2026-11-29,2026-11-02T04:22:43Z,Pending
+1354,2,4,Operations,Facilities,Office maintenance supplies,4,20000,80000,Normal,2026-09-01,2026-08-09T03:50:06Z,Approved
+1355,6,2,Human Resources,Software,Software subscription and licences,6,1800,10800,Normal,2026-07-17,2026-07-09T00:21:09Z,Approved
+1356,3,7,Marketing,Software,Software subscription and licences,5,1800,9000,Normal,2026-08-30,2026-08-13T16:26:34Z,Approved
+1357,2,9,Operations,Facilities,Office maintenance supplies,6,20000,120000,Normal,2026-07-09,2026-06-20T02:42:26Z,Approved
+1358,5,6,Facilities,Hardware,IT hardware and peripherals,6,75000,450000,Normal,2026-05-30,2026-05-19T13:01:12Z,Approved
+1359,5,9,Facilities,Facilities,Office maintenance supplies,3,75000,225000,Normal,2026-11-24,2026-11-02T16:01:55Z,Pending
+1360,3,5,Marketing,Marketing,Brand and campaign services,10,32000,320000,Normal,2026-06-12,2026-06-02T22:48:34Z,Approved
+1361,3,7,Marketing,Software,Software subscription and licences,7,3000,21000,Normal,2026-11-19,2026-11-01T08:56:06Z,Pending
+1362,1,6,IT,Hardware,IT hardware and peripherals,7,7500,52500,Normal,2026-09-30,2026-09-15T05:27:58Z,Approved
+1363,1,7,IT,Software,Software subscription and licences,7,32000,224000,Normal,2026-10-04,2026-09-13T02:49:26Z,Approved
+1364,4,2,Finance,Software,Software subscription and licences,2,75000,150000,Normal,2026-07-19,2026-07-11T09:55:39Z,Approved
+1365,5,4,Facilities,Facilities,Office maintenance supplies,11,12000,132000,Normal,2026-09-15,2026-08-20T22:03:12Z,Approved
+1366,6,3,Human Resources,Professional Services,External consulting engagement,4,1800,7200,Normal,2026-06-28,2026-06-20T06:06:39Z,Approved
+1367,2,4,Operations,Facilities,Office maintenance supplies,9,12000,108000,Normal,2026-09-02,2026-08-05T15:06:19Z,Approved
+1368,5,6,Facilities,Hardware,IT hardware and peripherals,9,12000,108000,Normal,2026-04-18,2026-03-25T13:05:29Z,Approved
+1369,7,7,IT,Software,Software subscription and licences,8,4500,36000,Normal,2026-08-08,2026-07-15T21:42:49Z,Approved
+1370,4,2,Finance,Software,Software subscription and licences,5,7500,37500,Urgent,2026-09-15,2026-08-25T17:11:05Z,Approved
+1371,7,1,IT,Hardware,IT hardware and peripherals,10,3000,30000,Normal,2026-10-11,2026-09-25T13:58:58Z,Approved
+1372,2,2,Operations,Software,Software subscription and licences,12,3000,36000,Urgent,2026-11-22,2026-11-04T02:41:43Z,Pending
+1373,2,2,Operations,Software,Software subscription and licences,6,75000,450000,Normal,2026-07-18,2026-06-27T00:22:20Z,Approved
+1374,3,2,Marketing,Software,Software subscription and licences,4,12000,48000,Normal,2026-05-14,2026-04-21T20:49:40Z,Approved
+1375,6,8,Human Resources,Professional Services,External consulting engagement,7,3000,21000,Normal,2026-07-31,2026-07-17T00:28:06Z,Approved
+1376,5,1,Facilities,Hardware,IT hardware and peripherals,9,12000,108000,Urgent,2026-07-13,2026-06-19T12:37:00Z,Approved
+1377,7,6,IT,Hardware,IT hardware and peripherals,6,50000,300000,Normal,2026-06-16,2026-05-30T22:23:27Z,Approved
+1378,4,3,Finance,Professional Services,External consulting engagement,10,75000,750000,Normal,2026-09-04,2026-08-08T10:45:08Z,Rejected
+1379,2,7,Operations,Software,Software subscription and licences,10,32000,320000,Normal,2026-11-11,2026-11-04T21:51:42Z,Pending
+1380,7,2,IT,Software,Software subscription and licences,11,20000,220000,Normal,2026-10-29,2026-10-02T20:44:11Z,Approved
+1381,2,8,Operations,Professional Services,External consulting engagement,6,7500,45000,Normal,2026-04-02,2026-03-23T15:13:59Z,Approved
+1382,2,3,Operations,Professional Services,External consulting engagement,12,32000,384000,Normal,2026-05-08,2026-04-19T23:48:12Z,Approved
+1383,7,6,IT,Hardware,IT hardware and peripherals,6,3000,18000,Normal,2026-08-22,2026-08-11T06:38:38Z,Approved
+1384,4,2,Finance,Software,Software subscription and licences,9,12000,108000,Normal,2026-06-17,2026-05-28T12:17:10Z,Approved
+1385,1,7,IT,Software,Software subscription and licences,7,3000,21000,Urgent,2026-08-09,2026-07-13T17:11:22Z,Rejected
+1386,2,9,Operations,Facilities,Office maintenance supplies,8,12000,96000,Normal,2026-11-19,2026-11-02T22:33:58Z,Pending
+1387,3,8,Marketing,Professional Services,External consulting engagement,10,75000,750000,Normal,2026-09-26,2026-09-19T09:27:34Z,Rejected
+1388,5,6,Facilities,Hardware,IT hardware and peripherals,4,7500,30000,Normal,2026-11-17,2026-11-03T01:34:20Z,Pending
+1389,7,6,IT,Hardware,IT hardware and peripherals,2,4500,9000,Normal,2026-12-02,2026-11-06T14:34:31Z,Pending
+1390,5,6,Facilities,Hardware,IT hardware and peripherals,5,1800,9000,Normal,2026-04-28,2026-04-16T10:14:17Z,Approved
+1391,3,2,Marketing,Software,Software subscription and licences,3,32000,96000,Normal,2026-08-23,2026-07-30T20:16:31Z,Approved
+1392,7,2,IT,Software,Software subscription and licences,7,50000,350000,Normal,2026-05-03,2026-04-16T01:19:13Z,Approved
+1393,2,9,Operations,Facilities,Office maintenance supplies,7,7500,52500,Normal,2026-07-28,2026-07-12T15:43:13Z,Approved
+1394,3,2,Marketing,Software,Software subscription and licences,7,3000,21000,Normal,2026-05-23,2026-05-06T05:20:43Z,Approved
+1395,6,8,Human Resources,Professional Services,External consulting engagement,10,1800,18000,Normal,2026-06-17,2026-06-02T20:48:55Z,Approved
+1396,6,3,Human Resources,Professional Services,External consulting engagement,10,7500,75000,Normal,2026-11-25,2026-11-04T17:44:22Z,Pending
+1397,2,7,Operations,Software,Software subscription and licences,7,75000,525000,Normal,2026-08-28,2026-08-04T13:41:47Z,Approved
+1398,1,7,IT,Software,Software subscription and licences,3,32000,96000,Urgent,2026-10-03,2026-09-20T02:14:37Z,Approved
+1399,3,8,Marketing,Professional Services,External consulting engagement,11,7500,82500,Normal,2026-10-21,2026-09-30T18:27:22Z,Approved
+1400,6,7,Human Resources,Software,Software subscription and licences,7,3000,21000,Normal,2026-08-18,2026-07-26T04:04:55Z,Approved
+1401,5,1,Facilities,Hardware,IT hardware and peripherals,7,20000,140000,Normal,2026-12-03,2026-11-07T12:43:45Z,Pending
+1402,6,8,Human Resources,Professional Services,External consulting engagement,11,3000,33000,Normal,2026-06-28,2026-06-18T10:15:14Z,Approved
+1403,3,7,Marketing,Software,Software subscription and licences,12,20000,240000,Normal,2026-04-17,2026-04-06T02:58:01Z,Approved
+1404,6,2,Human Resources,Software,Software subscription and licences,2,32000,64000,Normal,2026-04-02,2026-03-06T23:18:20Z,Approved
+1405,5,6,Facilities,Hardware,IT hardware and peripherals,7,1800,12600,Normal,2026-08-16,2026-08-06T21:21:25Z,Approved
+1406,2,4,Operations,Facilities,Office maintenance supplies,10,3000,30000,Normal,2026-10-14,2026-09-29T01:31:51Z,Rejected
+1407,3,3,Marketing,Professional Services,External consulting engagement,1,3000,3000,Urgent,2026-07-27,2026-07-09T21:56:16Z,Approved
+1408,2,8,Operations,Professional Services,External consulting engagement,1,20000,20000,Normal,2026-05-12,2026-04-15T10:33:00Z,Rejected
+1409,1,1,IT,Hardware,IT hardware and peripherals,1,75000,75000,Normal,2026-08-17,2026-07-29T13:51:48Z,Rejected
