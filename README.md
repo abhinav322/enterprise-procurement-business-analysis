@@ -88,6 +88,8 @@ The API test evidence includes successful two- and three-stage approvals, reject
 
 ### Power BI dashboard
 
+![Meridian Procurement Performance Dashboard](08_PowerBI_Dashboard/Meridian_Dashboard_Overview.png)
+
 The editable report is available at [Meridian Procurement Analytics (.pbix)](08_PowerBI_Dashboard/Meridian_Procurement_Analytics.pbix). It includes six KPI cards, department spending, vendor delivery performance, approval-stage turnaround, department invoice discrepancy rates, and department/vendor/requisition-date slicers.
 
 The on-time delivery calculation was reconciled against transaction counts: **245 ÷ 300 = 81.7%**. The report uses the CSV files under [`07_SQL_Business_Analysis/powerbi_import/`](07_SQL_Business_Analysis/powerbi_import/). If Power BI cannot refresh on another machine, update the data-source paths to the local cloned folder.
