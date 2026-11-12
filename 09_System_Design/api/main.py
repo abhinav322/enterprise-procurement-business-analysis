@@ -1,10 +1,10 @@
-"""Meridian case-study API — Step 9.2, first endpoint only.
+"""Meridian case-study API — Procurement requisition and approval workflow prototype.
 
 Run locally: python -m uvicorn main:app --reload
 Visit: http://127.0.0.1:8000/docs
 
-Copy 07_meridian_analysis.db into this folder as meridian_api.db BEFORE running.
-This is a learning prototype, without user authentication or production controls.
+Copy 07_meridian_analysis.db into this folder as meridian_api.db before starting the API.
+This is a local demonstration prototype, without user authentication or production controls.
 """
 from datetime import date, datetime, timezone
 from pathlib import Path

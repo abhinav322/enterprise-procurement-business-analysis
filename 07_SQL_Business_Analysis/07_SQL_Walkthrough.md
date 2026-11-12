@@ -61,5 +61,3 @@ ORDER BY committed_po_value_inr DESC;
 ## Boundaries and honest interpretation
 
 The data is **fully synthetic**. Our observations describe only the simulated scenario; they are not findings about a real procurement organisation. This database is a deliberately simplified case study (no tax, exchange rates, multi-line POs, split receipts, credit notes, or production authentication). It shows BA analytics methods and should not be represented as real business experience.
-
-**Next technical step:** In Step 08, load the related CSV tables from `powerbi_import` into Power BI, define relationships by the PK/FK columns, and reproduce the validated KPIs visually.

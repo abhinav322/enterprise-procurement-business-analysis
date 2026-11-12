@@ -23,7 +23,7 @@ These numbers do **not** prove the root cause of delays or that automation will 
 - **BR-06; FR-09:** invoice exception analysis (Queries 07–08).
 - **BR-07:** management performance visibility (Queries 01–02).
 
-## Suggested dashboard measures for Step 08
+## Dashboard KPI Specifications
 
 1. Issued PO Value (INR) — sum of requisition amounts linked to purchase orders.
 2. Pending Approval Count — count of approval records with `decision='Pending'`.
